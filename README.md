@@ -1,1 +1,2 @@
 # Bollywood_Movie_data_Python
+The implications of these findings are: The popularity of certain genres, such as Comedy and Drama, suggests that these genres are more appealing to the Bollywood audience. The distribution of movies across different release times and genres can help in deciding the optimal time slot for releasing a movie. The month with the highest number of releases and high-budget movies suggests that it is a favorable time for releasing movies. The top 10 movies with the highest ROI can serve as a benchmark for measuring the success of a movie.
